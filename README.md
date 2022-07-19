@@ -6,7 +6,7 @@
 
 Ordery tries to makes an order process easy and paperless. Customer provide their order to a restaurant person, which accept orders on Ordery. Ordery is a mobile application build using flutter and dart technology with the database as firebase. Once the order is accepted from customer, on the one click go order is moved to chef's counter which can be seen through a web application built using node.js and react.js. Once the order is prepared chef simply change the status of order to prepare, so customer collects their orders. So, Ordery makes the order accepting system easy and paperless.
 
-## Major Functionality 
+## Major Functionalities
 
 1. Login / Registration (Admin, Waiter)
 2. Add Menu Item (Admin)
