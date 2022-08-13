@@ -1,5 +1,5 @@
 
-# Ordery - Smart Ordering System
+# Ordery - Smart Order Taking System
 
 
 ![Dashboard](https://github.com/omjogani/Ordery/blob/master/screenshots/banner.png?raw=true "Banner")
